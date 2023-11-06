@@ -6,7 +6,10 @@ I'm a Software Engineering student, with a passion about building a better futur
 
 > *“It’s kind of fun to do the impossible.”* - Walt Disney
 
+<br/>
+<br/>
 
+[Download CV](https://docs.google.com/document/d/1Job_Z4-tnNK_8_JZ-e-lKUPzUoOTIUOowaY4BwsvqzE/edit?usp=sharing)
 <!--
 
 #
