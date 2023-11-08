@@ -9,4 +9,4 @@ I'm a Software Engineering student, with a passion about building a better futur
 &nbsp;
 &nbsp;
 
-<a id="raw-url" href="https://raw.githubusercontent.com/phtoselli/phtoselli/master/files/Pedro-Toselli.pdf" download>Download CV</a>
+[Download CV](https://raw.githubusercontent.com/phtoselli/phtoselli/master/files/Pedro-Toselli.pdf "download")
