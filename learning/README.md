@@ -19,7 +19,7 @@
 
 ## Roadmap
 
-[![roadmap.sh](https://api.roadmap.sh/v1-badge/tall/6513682a2f8c6d847b11be09?variant=dark)](https://roadmap.sh)
+[![roadmap.sh](https://api.roadmap.sh/v1-badge/tall/6513682a2f8c6d847b11be09?variant=dark&roadmaps=full-stack%2Cbackend%2Cfrontend%2Cdevops)](https://roadmap.sh)
 
 ## Certificates
 
