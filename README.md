@@ -9,4 +9,4 @@ I'm a Software Engineering student, with a passion about building a better futur
 &nbsp;
 &nbsp;
 
-[Download CV](https://raw.githubusercontent.com/phtoselli/phtoselli/master/files/cv-pedro-toselli.pdf "download")
+[Download RESUME](https://raw.githubusercontent.com/phtoselli/phtoselli/master/files/resume-pedro-toselli.pdf "download")
