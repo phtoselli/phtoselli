@@ -6,7 +6,7 @@ I'm a Software Engineering student, with a passion about building a better futur
 
 > *“It’s kind of fun to do the impossible.”* - Walt Disney
 
-<br/>
-<br/>
+&nbsp;
+&nbsp;
 
-[Download my CV](/files/Pedro-Toselli.pdf)
+[Download CV](/files/Pedro-Toselli.pdf)  &nbsp; &nbsp;  [My Learning](/learning) 
