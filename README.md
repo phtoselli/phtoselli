@@ -9,4 +9,4 @@ I'm a Software Engineering student, with a passion about building a better futur
 <br/>
 <br/>
 
-[My Learning](/learning)
+[Download my CV](/files/Pedro-Toselli.pdf)
