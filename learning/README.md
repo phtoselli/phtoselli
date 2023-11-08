@@ -1,6 +1,6 @@
 # My Learning
 
-📚 Studying...
+📚 Here you can follow my stuydies progress.
 
 ## Languages & Tools
 
@@ -16,6 +16,15 @@
   <img width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" />
   <img width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" />
 </p>
+
+## Roadmaps
+
+<details open>
+  <summary>Main</summary>
+
+  [![roadmap.sh](https://api.roadmap.sh/v1-badge/tall/6513682a2f8c6d847b11be09?variant=dark)](https://roadmap.sh)
+</details>
+
 
 ## Certificates
 
