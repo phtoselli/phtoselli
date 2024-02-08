@@ -2,9 +2,13 @@
 
 ### Hi 👋🏼 , my name is [Pedro Toselli](https://www.linkedin.com/in/phtoselli/).
 
-I'm a Software Developer with knowledge in ***Javascript***, ***Typescript***, ***React***, ***React Native***, ***Node.JS*** and ***Databases***. </br>
-I started my carrer as **Developer** with a ***Full stack web development*** course and after graduating I was hired as a **backend instructor**. </br>
+I'm a Software Developer with knowledge in ***Javascript***, ***Typescript***, ***React***, ***React Native***, ***Node.JS*** and ***Databases***.
+
+I started my carrer as **Developer** with a ***Full stack web development*** course and after graduating I was hired as a **backend instructor**.
+
 Finally I'm currently studying **software engineering**.
+
+</br>
 
 > *“It’s kind of fun to do the impossible.”* - Walt Disney
 
