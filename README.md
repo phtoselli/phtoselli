@@ -2,7 +2,7 @@
 
 ### Hi 👋🏼 , my name is [Pedro Toselli](https://www.linkedin.com/in/phtoselli/).
 
-I'm a Software Developer with knowledge in ***Javascript***, ***Typescript***, ***React***, ***React Native***, ***Node.JS*** and ***Databases***.
+I'm a Software Developer with knowledge in ***Javascript***, ***Typescript***, ***React***, ***Next.JS***, ***Node.JS*** and ***Databases***.
 
 I started my carrer as **Developer** with a ***Full stack web development*** course and after graduating I was hired as a **backend instructor**.
 
