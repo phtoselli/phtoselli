@@ -6,7 +6,7 @@ I'm a Software Developer with knowledge in ***Javascript***, ***Typescript***, *
 
 I started my carrer as **Developer** with a ***Full stack web development*** course and after graduating I was hired as a **backend instructor**.
 
-Finally I'm currently studying **software engineering**.
+Finally I'm currently studying **web design**.
 
 </br>
 
