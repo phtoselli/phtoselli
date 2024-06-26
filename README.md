@@ -10,7 +10,7 @@ Finally I'm currently studying **web design**.
 
 </br>
 
-> *“It’s kind of fun to do the impossible.”* - Walt Disney
+> *"First, solve the problem. Then, write the code."* — John Johnson
 
 &nbsp;
 &nbsp;
