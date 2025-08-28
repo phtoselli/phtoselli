@@ -2,7 +2,7 @@
 
 ### Hi 👋🏼 , my name is [Pedro Toselli](https://www.linkedin.com/in/phtoselli/).
 
-I'm a **Frontend Developer** focused on React. </br>
+**I'm a **Frontend Developer** focused on React.** </br>
 I build scalable, responsive and accessible interfaces, always prioritizing performance, clean code and user experience. </br>
 Experienced with state management, componentization, render optimization, API integration and applying best practices in web application architecture.  
 
