@@ -1,10 +1,10 @@
-<img align="right" alt="GIF" src="https://media.giphy.com/media/KzJkzjggfGN5Py6nkT/giphy.gif" width="150px" height="150px" > <br>
+<img align="right" alt="GIF" src="https://media.giphy.com/media/KzJkzjggfGN5Py6nkT/giphy.gif" width="400px" height="400px"> <br>
 
 ### Hi 👋🏼 , my name is [Pedro Toselli](https://www.linkedin.com/in/phtoselli/).
 
 I'm a **Frontend Developer** focused on React. </br>
 I build scalable, responsive and accessible interfaces, always prioritizing performance, clean code and user experience. </br>
-Experienced with state management, componentization, render optimization, API integration and applying best practices in web application architecture.
+Experienced with state management, componentization, render optimization, API integration and applying best practices in web application architecture.  
 
 #### MY BACKGROUND
 - 🎓 Web Design | FIAP
