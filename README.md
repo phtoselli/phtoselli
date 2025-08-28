@@ -2,11 +2,16 @@
 
 ### Hi 👋🏼 , my name is [Pedro Toselli](https://www.linkedin.com/in/phtoselli/).
 
-I'm a Software Developer with knowledge in ***Javascript***, ***Typescript***, ***React***, ***Next.JS***, ***Node.JS*** and ***Databases***.
+I'm a **Frontend Developer** focused on React.
+I build scalable, responsive and accessible interfaces, always prioritizing performance, clean code and user experience.
+Experienced with state management, componentization, render optimization, API integration and applying best practices in web application architecture.
 
-I started my carrer as **Developer** with a ***Full stack web development*** course and after graduating I was hired as a **backend instructor**.
-
-Finally I'm currently studying **web design**.
+#### MY BACKGROUND
+🎓 Web Design | FIAP
+🎓 Web Development | Trybe
+💻 Frontend Developer | Soon
+💻 Software Development Instructor (Web Focused) | Trybe
+📚 Experience with React.js, TypeScript and UX/UI.
 
 </br>
 
