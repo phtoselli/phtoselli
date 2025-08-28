@@ -7,11 +7,11 @@ I build scalable, responsive and accessible interfaces, always prioritizing perf
 Experienced with state management, componentization, render optimization, API integration and applying best practices in web application architecture.
 
 #### MY BACKGROUND
-🎓 Web Design | FIAP
-🎓 Web Development | Trybe
-💻 Frontend Developer | Soon
-💻 Software Development Instructor (Web Focused) | Trybe
-📚 Experience with React.js, TypeScript and UX/UI.
+- 🎓 Web Design | FIAP
+- 🎓 Web Development | Trybe
+- 💻 Frontend Developer | Soon
+- 💻 Software Development Instructor (Web Focused) | Trybe
+- 📚 Experience with React.js, TypeScript and UX/UI.
 
 </br>
 
