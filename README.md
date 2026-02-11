@@ -21,13 +21,13 @@
 ![AI](https://img.shields.io/badge/AI-FF6F61?style=flat&logo=artificial-intelligence&logoColor=white)
 ![Claude Code](https://img.shields.io/badge/Claude%20Code-000000?style=flat&logo=anthropic&logoColor=white)
 
----
+
 
 > Focused on solutions — business rules and architecture first.  
 > Less writing code, more understanding and designing systems.  
 > Using AI and vibe coding to reduce complexity and deliver real value.
 
----
+
 
 ## Current Projects
 
