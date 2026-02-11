@@ -1,4 +1,4 @@
-# Hi, I'm [Pedro Toselli](https://www.linkedin.com/in/phtoselli/). 👋🏼
+# Hi, I'm [Pedro Toselli](https://pedrotoselli.com). 👋🏼
 
 📍 São Paulo, Brazil | 🚀 Software Developer at Soon | 🤖 Vibe coding
 
