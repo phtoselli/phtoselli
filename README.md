@@ -31,7 +31,7 @@
 
 ## Current Projects
 
-- 🏛️ **[Themelion](https://themelion.dev)** - A free learning platform focused on timeless, fundamental programming concepts.
+- 🏛️ **[Themelion](https://themelion.dev)** - A free platform to learn programming fundamentals that never expire
 
 <!--
 <img align="right" alt="GIF" src="https://media.giphy.com/media/KzJkzjggfGN5Py6nkT/giphy.gif" width="400px" height="400px"> <br>
