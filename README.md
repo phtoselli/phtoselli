@@ -28,8 +28,8 @@ Sinta-se em casa.
 
 
 ## No que estou trabalhando atualmente
-🏛️ **[Themelion](https://themelion.dev)** &bull; Uma plataforma gratuita para aprender fundamentos de programação.  
-
+🏛️ **[Themelion](https://themelion.dev)** &bull; Uma plataforma gratuita e OpenSource para aprender fundamentos de programação.  
+✨ **[Photara](https://photara.vercel.app/)** &bull; Uma plataforma gratuita e OpenSource para editar fotos online.  
 
 <!-- 
 TABELINHA DE CÓDIGOS 
