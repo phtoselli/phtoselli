@@ -1,17 +1,20 @@
-# Hi, I'm [Pedro Toselli](https://pedrotoselli.com). 👋🏼
+# 👋 Hello world! (Literalmente)
 
-📍 São Paulo, Brazil | 🚀 Software Developer at Soon | 🤖 Vibe coding
+👨‍💻 Desenvolvedor Full Stack &nbsp;|&nbsp; 🧪 Transformando ideias em código &nbsp;|&nbsp; 🤖 Explorando IA aplicada ao desenvolvimento
 
-<!-- ![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat&logo=next.js&logoColor=white) -->
-<!-- ![Vue.js](https://img.shields.io/badge/Vue.js-42b883?style=flat&logo=vue.js&logoColor=white) -->
-<!-- ![Angular](https://img.shields.io/badge/Angular-DD0031?style=flat&logo=angular&logoColor=white) -->
-<!-- ![HTML](https://img.shields.io/badge/HTML-E34F26?style=flat&logo=html5&logoColor=white) -->
-<!-- ![CSS](https://img.shields.io/badge/CSS-1572B6?style=flat&logo=css3&logoColor=white) -->
-<!-- ![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white) -->
-<!-- ![Ruby](https://img.shields.io/badge/Ruby-CC342D?style=flat&logo=ruby&logoColor=white) -->
-<!-- ![Rust](https://img.shields.io/badge/Rust-000000?style=flat&logo=rust&logoColor=white) -->
-<!-- ![Opus 4.5](https://img.shields.io/badge/Opus%204.5-111111?style=flat&logo=anthropic&logoColor=white) -->
+> Comecei minha carreira como instrutor de tecnologia, focado em Desenvolvimento Web.  
+> Hoje, continuo fazendo o que mais gosto: tirar ideias do papel, transformar em código e ver tudo ganhando forma.  
+> Confesso que começar um novo projeto é uma das partes que mais me empolgam no dia a dia.  
 
+<!-- HERE A CODING GIF -->
+
+### Bem-vindo ao meu laboratório de projetos
+Aqui você vai encontrar experimentos, projetos em evolução, códigos bem cuidados e ideias que ainda estão tomando forma.  
+Sinta-se em casa.
+
+
+
+## Minha caixa de ferramentas
 ![React](https://img.shields.io/badge/React-61DAFB?style=flat&logo=react&logoColor=000)
 ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat&logo=typescript&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=000)
@@ -23,39 +26,20 @@
 
 
 
-> Focused on solutions — business rules and architecture first.  
-> Less writing code, more understanding and designing systems.  
-> Using AI and vibe coding to reduce complexity and deliver real value.
+## No que estou trabalhando atualmente
+🏛️ **[Themelion](https://themelion.dev)** &bull; Uma plataforma gratuita para aprender fundamentos de programação.  
 
 
+<!-- 
+TABELINHA DE CÓDIGOS 
 
-## Current Projects
-
-- 🏛️ **[Themelion](https://themelion.dev)** - A free platform to learn programming fundamentals that never expire
-
-<!--
-<img align="right" alt="GIF" src="https://media.giphy.com/media/KzJkzjggfGN5Py6nkT/giphy.gif" width="400px" height="400px"> <br>
-
-### Hi 👋🏼 , my name is [Pedro Toselli](https://www.linkedin.com/in/phtoselli/).
-
-**I'm a **Frontend Developer** focused on React.** </br>
-I build scalable, responsive and accessible interfaces, always prioritizing performance, clean code and user experience. </br>
-Experienced with state management, componentization, render optimization, API integration and applying best practices in web application architecture.
-
-#### MY BACKGROUND
-- 🎓 Web Design | FIAP
-- 🎓 Web Development | Trybe
-- 💻 Frontend Developer | Soon
-- 💻 Software Development Instructor (Web Focused) | Trybe
-- 📚 Experience with React.js, TypeScript and UX/UI.
-
-</br>
-
-> *"First, solve the problem. Then, write the code."* — John Johnson
-
-&nbsp;
-&nbsp;
-
-
-[Download RESUME](https://raw.githubusercontent.com/phtoselli/phtoselli/master/files/resume-pedro-toselli.pdf "download")
--->
+&#8203; - espaço de largura zero (invisível, útil para forçar pequenas quebras ou evitar colapso de linha)
+&nbsp; - espaço não quebrável (impede que duas palavras se separem na quebra automática)
+&thinsp; - espaço fino (menor que o espaço padrão)
+&ensp; - espaço médio (aproximadamente equivalente a 2 espaços)
+&emsp; - espaço largo (aproximadamente equivalente a 4 espaços)
+&zwnj; - separador invisível (zero width non-joiner)
+&zwj; - conector invisível (zero width joiner)
+&mdash; - travessão tipográfico (—)
+&bull; - marcador de lista personalizado (•)
+--->
