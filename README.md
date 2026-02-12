@@ -7,6 +7,7 @@
 > Confesso que começar um novo projeto é uma das partes que mais me empolgam no dia a dia.  
 
 <!-- HERE A CODING GIF -->
+![Banner](./files/banner.svg)
 
 ### Bem-vindo ao meu laboratório de projetos
 Aqui você vai encontrar experimentos, projetos em evolução, códigos bem cuidados e ideias que ainda estão tomando forma.  
