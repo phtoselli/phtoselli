@@ -27,9 +27,11 @@ Sinta-se em casa.
 
 
 
-## No que estou trabalhando atualmente
+## Meus projetos
 🏛️ **[Themelion](https://themelion.dev)** &bull; Uma plataforma gratuita e OpenSource para aprender fundamentos de programação.  
-✨ **[Photara](https://photara.vercel.app/)** &bull; Uma plataforma gratuita e OpenSource para editar fotos online.  
+✨ **[Photara](https://photara.vercel.app/)** &bull; Uma plataforma gratuita e OpenSource para editar fotos online.   
+👾 **[Github Filler](github-filler.vercel.app)** &bull; Uma ferramenta web para personalizar o gráfico de contribuições do GitHub.  
+
 
 <!-- 
 TABELINHA DE CÓDIGOS 
