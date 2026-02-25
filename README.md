@@ -29,7 +29,7 @@ Sinta-se em casa.
 ## Meus projetos
 🏛️ **[Themelion](https://themelion.dev)** &bull; Uma plataforma gratuita e OpenSource para aprender fundamentos de programação.  
 ✨ **[Photara](https://photara.vercel.app/)** &bull; Uma plataforma gratuita e OpenSource para editar fotos online.   
-👾 **[Github Filler](https://github-filler.vercel.app)** &bull; Uma ferramenta web para personalizar o gráfico de contribuições do GitHub.
+👾 **[Github Filler](https://github-filler.vercel.app)** &bull; Uma ferramenta web para personalizar o gráfico de contribuições do GitHub.   
 🧾 **[Despacha Nota](https://despacha-nota.vercel.app/)** &bull; Uma ferramenta web para automatizar o envio de emails e notas fiscais.  
 
 
