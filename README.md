@@ -1,6 +1,6 @@
 # 👋 Hello world! (Literalmente)
 
-👨‍💻 Desenvolvedor Full Stack &nbsp;|&nbsp; 🧪 Transformando ideias em código &nbsp;|&nbsp; 🤖 Explorando IA aplicada ao desenvolvimento
+👨‍💻 Desenvolvedor Front-end &nbsp;|&nbsp; 🧪 Transformando ideias em código &nbsp;|&nbsp; 🤖 Explorando IA aplicada ao desenvolvimento
 
 > Comecei minha carreira como instrutor de tecnologia, focado em Desenvolvimento Web.  
 > Hoje, continuo fazendo o que mais gosto: tirar ideias do papel, transformar em código e ver tudo ganhando forma.  
@@ -19,7 +19,6 @@ Sinta-se em casa.
 ![React](https://img.shields.io/badge/React-61DAFB?style=flat&logo=react&logoColor=000)
 ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat&logo=typescript&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=000)
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat&logo=node.js&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white)
 ![Web](https://img.shields.io/badge/Web-0A66C2?style=flat&logo=google-chrome&logoColor=white)
 ![AI](https://img.shields.io/badge/AI-FF6F61?style=flat&logo=artificial-intelligence&logoColor=white)
