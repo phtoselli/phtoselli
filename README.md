@@ -1,6 +1,6 @@
-# 👋 Hello world! (Literalmente)
+# 👋 Hello world!
 
-👨‍💻 Desenvolvedor Front-end &nbsp;|&nbsp; 🧪 Transformando ideias em código &nbsp;|&nbsp; 🤖 Explorando IA aplicada ao desenvolvimento
+👨‍💻 Desenvolvedor Front-end &nbsp;|&nbsp; 💪 Especialista em Segurança e Performance Web
 
 > Sou do tipo de pessoa que tem uma ideia durante o banho, rabisca no caderno e não para enquanto não vê aquilo funcionando.  
 > No caminho, mergulho fundo em cada detalhe: refatoração, performance, arquitetura, segurança.  
@@ -13,9 +13,10 @@
 ![Banner](./files/banner.svg)
 
 ### Bem-vindo ao meu laboratório de projetos
-> Aqui você vai encontrar experimentos, projetos em evolução, códigos bem cuidados e ideias que ainda estão tomando forma.  
-🏡 **Sinta-se em casa**.
+> Aqui você vai encontrar experimentos, projetos em evolução, códigos bem cuidados e ~ideias que ainda estão tomando forma~   
+> `// TODO: terminar esses projetos algum dia`.
 
+🏡 **Sinta-se em casa**.
 
 
 ## Minha caixa de ferramentas
