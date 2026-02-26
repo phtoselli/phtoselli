@@ -2,16 +2,19 @@
 
 👨‍💻 Desenvolvedor Front-end &nbsp;|&nbsp; 🧪 Transformando ideias em código &nbsp;|&nbsp; 🤖 Explorando IA aplicada ao desenvolvimento
 
-> Comecei minha carreira como instrutor de tecnologia, focado em Desenvolvimento Web.  
-> Hoje, continuo fazendo o que mais gosto: tirar ideias do papel, transformar em código e ver tudo ganhando forma.  
-> Confesso que começar um novo projeto é uma das partes que mais me empolgam no dia a dia.  
+> Sou do tipo de pessoa que tem uma ideia durante o banho, rabisca no caderno e não para enquanto não vê aquilo funcionando.  
+> No caminho, mergulho fundo em cada detalhe: refatoração, performance, arquitetura, segurança.  
+> Pra mim, entender como as coisas funcionam por baixo dos panos é a parte mais divertida.  
+> É exatamente aí que entra o flow que não me deixa dormir e sempre termina em um código que me empolga.  
+
+<br/>
 
 <!-- HERE A CODING GIF -->
 ![Banner](./files/banner.svg)
 
 ### Bem-vindo ao meu laboratório de projetos
-Aqui você vai encontrar experimentos, projetos em evolução, códigos bem cuidados e ideias que ainda estão tomando forma.  
-Sinta-se em casa.
+> Aqui você vai encontrar experimentos, projetos em evolução, códigos bem cuidados e ideias que ainda estão tomando forma.  
+🏡 **Sinta-se em casa**.
 
 
 
