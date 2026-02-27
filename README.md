@@ -34,9 +34,11 @@
 🧾 **[Despacha Nota](https://despacha-nota.vercel.app/)** &bull; Uma ferramenta web para automatizar o envio de emails e notas fiscais.  
 📚 **[Themelion](https://themelion.vercell.app)** &bull; Uma plataforma gratuita e OpenSource para aprender fundamentos de programação.  
 👾 **[Themelion Game](https://themelion.dev)** &bull; ~Aprenda programação através de um RPG.~ `[EM_BREVE]`       
+
+<!-- 
 📸 **[Photara](https://photara.vercel.app/)** &bull; Uma plataforma gratuita e OpenSource para editar fotos online.   
 🧩 **[Github Filler](https://github-filler.vercel.app)** &bull; Uma ferramenta web para personalizar o gráfico de contribuições do GitHub.   
-
+--->
 
 <!-- 
 TABELINHA DE CÓDIGOS 
