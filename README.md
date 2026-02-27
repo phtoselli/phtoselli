@@ -1,6 +1,6 @@
 # 👋 Hello world!
 
-👨‍💻 Desenvolvedor Front-end &nbsp;|&nbsp; 💪 Especialista em Segurança e Performance Web
+👨‍💻 Desenvolvedor Front-end &nbsp;|&nbsp; ⚛️ React & Typescript &nbsp;|&nbsp; 💪 Especialista em Segurança e Performance Web
 
 > Sou do tipo de pessoa que tem uma ideia durante o banho, rabisca no caderno e não para enquanto não vê aquilo funcionando.  
 > No caminho, mergulho fundo em cada detalhe: refatoração, performance, arquitetura, segurança.  
