@@ -34,8 +34,8 @@
 🧾 **[Despacha Nota](https://despacha-nota.vercel.app/)** &bull; Uma ferramenta web para automatizar o envio de emails e notas fiscais.  
 📚 **[Themelion](https://themelion.vercell.app)** &bull; Uma plataforma gratuita e OpenSource para aprender fundamentos de programação.  
 👾 **[Themelion Game](https://themelion.dev)** &bull; ~Aprenda programação através de um RPG.~ `[EM_BREVE]`  
-📊 **[B³ Dashboard](https://dashboard-b3.vercel.app/)** &bull; Dashboard para acompanhar as ações na [B]³
-👫 **[Couple Finances](https://couple-f6s.vercel.app)** &bull; Plataforma de organização financeira em casal
+📊 **[B³ Dashboard](https://dashboard-b3.vercel.app/)** &bull; Dashboard para acompanhar as ações na [B]³   
+👫 **[Couple Finances](https://couple-f6s.vercel.app)** &bull; Plataforma de organização financeira em casal   
 <!-- 
 📸 **[Photara](https://photara.vercel.app/)** &bull; Uma plataforma gratuita e OpenSource para editar fotos online.   
 🧩 **[Github Filler](https://github-filler.vercel.app)** &bull; Uma ferramenta web para personalizar o gráfico de contribuições do GitHub.   
