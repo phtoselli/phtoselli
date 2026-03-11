@@ -10,7 +10,7 @@
 <br/>
 
 <!-- HERE A CODING GIF -->
-![Banner](./files/banner.svg)
+![Banner](./files/banner.gif)
 
 ### Bem-vindo ao meu laboratório de projetos
 > Aqui você vai encontrar experimentos, projetos em evolução, códigos bem cuidados e ~ideias que ainda estão tomando forma~   
