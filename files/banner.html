@@ -1,0 +1,217 @@
+<!DOCTYPE html>
+<html>
+<head>
+<meta charset="UTF-8">
+<style>
+  * { margin: 0; padding: 0; box-sizing: border-box; }
+  html, body {
+    background: transparent;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    overflow: hidden;
+  }
+  #fire-canvas {
+    display: grid;
+    gap: 3px;
+    padding: 3px;
+  }
+  .cell {
+    width: 11px;
+    height: 11px;
+    border-radius: 2px;
+  }
+</style>
+</head>
+<body>
+
+<div id="fire-canvas"></div>
+
+<script>
+// ============================================================
+// LETTER DEFINITIONS (8x11 bold)
+// ============================================================
+const letters = {
+  'B': [
+    [1,1,1,1,1,1,0,0],[1,1,1,0,0,1,1,0],[1,1,1,0,0,1,1,0],[1,1,1,0,0,1,1,0],
+    [1,1,1,1,1,1,0,0],[1,1,1,1,1,1,1,0],[1,1,1,0,0,0,1,1],[1,1,1,0,0,0,1,1],
+    [1,1,1,0,0,0,1,1],[1,1,1,0,0,1,1,0],[1,1,1,1,1,1,0,0],
+  ],
+  'E': [
+    [1,1,1,1,1,1,1,0],[1,1,1,1,1,1,1,0],[1,1,1,0,0,0,0,0],[1,1,1,0,0,0,0,0],
+    [1,1,1,1,1,1,0,0],[1,1,1,1,1,1,0,0],[1,1,1,0,0,0,0,0],[1,1,1,0,0,0,0,0],
+    [1,1,1,0,0,0,0,0],[1,1,1,1,1,1,1,0],[1,1,1,1,1,1,1,0],
+  ],
+  'M': [
+    [1,1,0,0,0,0,1,1],[1,1,1,0,0,1,1,1],[1,1,1,1,1,1,1,1],[1,1,1,1,1,1,1,1],
+    [1,1,0,1,1,0,1,1],[1,1,0,1,1,0,1,1],[1,1,0,0,0,0,1,1],[1,1,0,0,0,0,1,1],
+    [1,1,0,0,0,0,1,1],[1,1,0,0,0,0,1,1],[1,1,0,0,0,0,1,1],
+  ],
+  '-': [
+    [0,0,0,0,0,0,0,0],[0,0,0,0,0,0,0,0],[0,0,0,0,0,0,0,0],[0,0,0,0,0,0,0,0],
+    [1,1,1,1,1,1,1,0],[1,1,1,1,1,1,1,0],[1,1,1,1,1,1,1,0],[0,0,0,0,0,0,0,0],
+    [0,0,0,0,0,0,0,0],[0,0,0,0,0,0,0,0],[0,0,0,0,0,0,0,0],
+  ],
+  'V': [
+    [1,1,0,0,0,0,1,1],[1,1,0,0,0,0,1,1],[1,1,0,0,0,0,1,1],[1,1,0,0,0,0,1,1],
+    [1,1,0,0,0,0,1,1],[0,1,1,0,0,1,1,0],[0,1,1,0,0,1,1,0],[0,0,1,1,1,1,0,0],
+    [0,0,1,1,1,1,0,0],[0,0,0,1,1,0,0,0],[0,0,0,1,1,0,0,0],
+  ],
+  'I': [
+    [1,1,1,1,1,1,1,0],[1,1,1,1,1,1,1,0],[0,0,1,1,1,0,0,0],[0,0,1,1,1,0,0,0],
+    [0,0,1,1,1,0,0,0],[0,0,1,1,1,0,0,0],[0,0,1,1,1,0,0,0],[0,0,1,1,1,0,0,0],
+    [0,0,1,1,1,0,0,0],[1,1,1,1,1,1,1,0],[1,1,1,1,1,1,1,0],
+  ],
+  'N': [
+    [1,1,0,0,0,0,1,1],[1,1,1,0,0,0,1,1],[1,1,1,1,0,0,1,1],[1,1,1,1,1,0,1,1],
+    [1,1,1,1,1,0,1,1],[1,1,0,1,1,1,1,1],[1,1,0,0,1,1,1,1],[1,1,0,0,1,1,1,1],
+    [1,1,0,0,0,1,1,1],[1,1,0,0,0,0,1,1],[1,1,0,0,0,0,1,1],
+  ],
+  'D': [
+    [1,1,1,1,1,1,0,0],[1,1,1,1,1,1,1,0],[1,1,1,0,0,0,1,1],[1,1,1,0,0,0,1,1],
+    [1,1,1,0,0,0,1,1],[1,1,1,0,0,0,1,1],[1,1,1,0,0,0,1,1],[1,1,1,0,0,0,1,1],
+    [1,1,1,0,0,0,1,1],[1,1,1,1,1,1,1,0],[1,1,1,1,1,1,0,0],
+  ],
+  'O': [
+    [0,0,1,1,1,1,0,0],[0,1,1,1,1,1,1,0],[1,1,1,0,0,1,1,1],[1,1,0,0,0,0,1,1],
+    [1,1,0,0,0,0,1,1],[1,1,0,0,0,0,1,1],[1,1,0,0,0,0,1,1],[1,1,0,0,0,0,1,1],
+    [1,1,1,0,0,1,1,1],[0,1,1,1,1,1,1,0],[0,0,1,1,1,1,0,0],
+  ],
+};
+
+// ============================================================
+// CONFIG
+// ============================================================
+const word = "BEM-VINDO";
+const letterW = 8, letterH = 11, letterGap = 1;
+const totalCols = word.length * letterW + (word.length - 1) * letterGap;
+
+const padTop = 2, padBottom = 2, padLeft = 3, padRight = 3;
+const COLS = totalCols + padLeft + padRight;
+const ROWS = letterH + padTop + padBottom;
+const TOTAL = COLS * ROWS;
+
+// Green fire palette (37 colors: 0=cold, 36=hottest)
+const palette = [
+  "#ebedf0","#e6f0e8","#ddf2e0","#d4f3d8","#cbf5d0",
+  "#c2f7c8","#b9f9c0","#b0fbb8","#a7fdb0","#9effa8",
+  "#9be9a8","#8fdd9e","#83d194","#77c58a","#6bb980",
+  "#5fad76","#53a16c","#479562","#3b8958","#2f7d4e",
+  "#40c463","#3cba5c","#38b055","#34a64e","#309c47",
+  "#30a14e","#2c9347","#288540","#247739","#206932",
+  "#216e39","#1d6333","#19582d","#154d27","#114221",
+  "#0d371b","#0b4a1f"
+];
+
+const TEXT_COLOR = "#0b4a1f";
+
+// ============================================================
+// BUILD TEXT MASK
+// ============================================================
+const textMask = new Array(TOTAL).fill(0);
+
+for (let row = 0; row < ROWS; row++) {
+  for (let col = 0; col < COLS; col++) {
+    const innerRow = row - padTop;
+    const innerCol = col - padLeft;
+    if (innerRow >= 0 && innerRow < letterH && innerCol >= 0 && innerCol < totalCols) {
+      let colOffset = 0;
+      for (const ch of word) {
+        const charEnd = colOffset + letterW;
+        if (innerCol >= colOffset && innerCol < charEnd) {
+          const localCol = innerCol - colOffset;
+          if (letters[ch][innerRow][localCol] === 1) {
+            textMask[row * COLS + col] = 1;
+          }
+          break;
+        }
+        colOffset = charEnd + letterGap;
+      }
+    }
+  }
+}
+
+// ============================================================
+// CREATE DOM GRID
+// ============================================================
+const container = document.getElementById('fire-canvas');
+container.style.gridTemplateColumns = `repeat(${COLS}, 11px)`;
+
+const cells = [];
+for (let i = 0; i < TOTAL; i++) {
+  const div = document.createElement('div');
+  div.className = 'cell';
+  container.appendChild(div);
+  cells.push(div);
+}
+
+// ============================================================
+// DOOM FIRE ALGORITHM
+// ============================================================
+const fireData = new Array(TOTAL).fill(0);
+
+// Create fire source (bottom row = medium intensity, ~half of text)
+function createFireSource() {
+  const lastRow = ROWS - 1;
+  for (let col = 0; col < COLS; col++) {
+    fireData[lastRow * COLS + col] = 18;
+  }
+}
+
+// Propagate fire: each pixel looks at pixel below, steals intensity with decay
+function calculateFirePropagation() {
+  for (let col = 0; col < COLS; col++) {
+    for (let row = 0; row < ROWS; row++) {
+      const pixelIndex = col + (COLS * row);
+      const belowIndex = pixelIndex + COLS;
+
+      // Skip bottom row (source) - nothing below it
+      if (belowIndex >= TOTAL) continue;
+
+      // Random decay: 0, 1, or 2
+      const decay = Math.floor(Math.random() * 3);
+
+      // Get intensity from below, apply decay
+      const belowIntensity = fireData[belowIndex];
+      let newIntensity = belowIntensity - decay;
+      if (newIntensity < 0) newIntensity = 0;
+
+      // Wind: shift horizontally by decay value
+      const windOffset = Math.floor(Math.random() * 3) - 1;
+      const targetIndex = pixelIndex - windOffset;
+
+      if (targetIndex >= 0 && targetIndex < TOTAL) {
+        fireData[targetIndex] = newIntensity;
+      }
+    }
+  }
+}
+
+// Render: update cell background colors
+function render() {
+  for (let i = 0; i < TOTAL; i++) {
+    if (textMask[i] === 1) {
+      cells[i].style.backgroundColor = TEXT_COLOR;
+    } else {
+      const intensity = Math.max(0, Math.min(36, fireData[i]));
+      cells[i].style.backgroundColor = palette[intensity];
+    }
+  }
+}
+
+// ============================================================
+// MAIN LOOP
+// ============================================================
+createFireSource();
+
+function loop() {
+  calculateFirePropagation();
+  render();
+  requestAnimationFrame(loop);
+}
+
+loop();
+</script>
+
+</body>
+</html>
