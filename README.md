@@ -11,8 +11,10 @@
 
 <!-- HERE A CODING GIF -->
 ![Banner](./files/banner.gif)
+<h4 align="center">ao meu laboratório de projetos 🧪</h4>
 
-### Bem-vindo ao meu laboratório de projetos
+
+
 > Aqui você vai encontrar experimentos, projetos em evolução, códigos bem cuidados e ~ideias que ainda estão tomando forma~   
 > `// TODO: terminar esses projetos algum dia`.
 
