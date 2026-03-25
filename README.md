@@ -9,17 +9,14 @@
 
 <br/>
 
-<!-- HERE A CODING GIF -->
-![Banner](./files/banner.gif)
-<h4 align="center">ao meu laboratório de projetos 🧪</h4>
-
-
+### Bem-vindo ao meu laboratório de projetos 🧪 
 
 > Aqui você vai encontrar experimentos, projetos em evolução, códigos bem cuidados e ~ideias que ainda estão tomando forma~   
 > `// TODO: terminar esses projetos algum dia`.
+>     
+>  **Sinta-se em casa** 🏡
 
-🏡 **Sinta-se em casa**.
-
+<br/>
 
 ## Minha caixa de ferramentas
 ![React](https://img.shields.io/badge/React-61DAFB?style=flat&logo=react&logoColor=000)
@@ -30,18 +27,25 @@
 ![AI](https://img.shields.io/badge/AI-FF6F61?style=flat&logo=artificial-intelligence&logoColor=white)
 ![Claude Code](https://img.shields.io/badge/Claude%20Code-000000?style=flat&logo=anthropic&logoColor=white)
 
-
+<br/>
 
 ## Meus projetos
 🧾 **[Despacha Nota](https://despacha-nota.vercel.app/)** &bull; Uma ferramenta web para automatizar o envio de emails e notas fiscais.  
 📚 **[Themelion](https://themelion.vercell.app)** &bull; Uma plataforma gratuita e OpenSource para aprender fundamentos de programação.  
 👾 **[Themelion Game](https://themelion.dev)** &bull; ~Aprenda programação através de um RPG.~ `[EM_BREVE]`  
 📊 **[B³ Dashboard](https://dashboard-b3.vercel.app/)** &bull; Dashboard para acompanhar as ações na [B]³   
-👫 **[Couple Finances](https://couple-f6s.vercel.app)** &bull; Plataforma de organização financeira em casal   
+👫 **[Couple Finances](https://couple-f6s.vercel.app)** &bull; Plataforma de organização financeira em casal  
+
 <!-- 
 📸 **[Photara](https://photara.vercel.app/)** &bull; Uma plataforma gratuita e OpenSource para editar fotos online.   
 🧩 **[Github Filler](https://github-filler.vercel.app)** &bull; Uma ferramenta web para personalizar o gráfico de contribuições do GitHub.   
 --->
+
+<!--
+HERE A CODING GIF
+
+![Banner](./files/banner.gif)
+-->
 
 <!-- 
 TABELINHA DE CÓDIGOS 
