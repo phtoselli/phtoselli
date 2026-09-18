@@ -19,9 +19,10 @@
 
 ## O que estou desenvolvendo...
 
-<!-- 
+🔬 **[Firmware para Espectrofotometro](https://github.com/phtoselli/esp32-spectrophotometer-firmware)** &bull; Firmware em C de código aberto para um espectrofotômetro caseiro de baixo custo usando ESP32.
 
-🧾 **[Nome Do Projeto](link)** &bull; Descrição do projeto.   
+<!-- 
+🧾 **[Nome Do Projeto](link)** &bull; Descrição do projeto.
 --->
 
 
